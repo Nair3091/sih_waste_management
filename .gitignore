@@ -1,0 +1,7 @@
+archive/
+*.pth
+# Python cache
+__pycache__/
+*.pyc
+
+test/
